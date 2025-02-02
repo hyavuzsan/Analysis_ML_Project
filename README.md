@@ -19,7 +19,7 @@ Bu proje, eğitim verileriyle yapılan analizleri içerir.
 1. **Python** ve **Jupyter Notebook** yüklü olmalı.
 2. Terminal veya CMD aç ve şunu çalıştır:
 pip install -r requirements.txt jupyter notebook
-3. `notebooks/analysis.ipynb` dosyasını aç.
+3. `notebooks/AnalysisAndML.ipynb` dosyasını aç.
 
 🔗 **Veri Kaynakları**:
 - [World Bank](https://data.worldbank.org/)
